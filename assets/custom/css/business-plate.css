@@ -6,6 +6,17 @@ img{max-width:100%}
 .ourServices img{max-width:140px}
 .topHeaderSection{ background-color: #2c2c2c ;  padding:0}
 
+.thumb1 { 
+background: url(blah.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+width: 100px;
+height: 100px;
+}
+
+.thumb a {
+display: block;
+width: 100px;
+height: 100px;
+}
 
 .is-sticky {
 z-index: 999;
@@ -226,7 +237,7 @@ transition: all 0.3s ease-out;
 .serviceBlock i {
 float: left;
 padding: 14px;
-color: #00B8FF;
+color: #0b689e;
 font-size: 6em;
 text-align: center;
 -webkit-transition: all 0.3s ease-in-out;
