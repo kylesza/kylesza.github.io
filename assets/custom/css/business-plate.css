@@ -222,10 +222,10 @@ transition: all 0.3s ease-out;
 .navbar-collapse {background: #2c2c2c; z-index: 9999;}
 .navbar-toggle {z-index: 9999 ;border-radius: ;outline:0}
 .navbar-toggle span {z-index: 9999 ; border-color: #ff0000;background: #428BCA; }
-.nav>li>a:hover, .nav>li>a:focus {z-index: 9999 ; text-decoration: none;background-color: #fff;}
-.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {z-index: 9999 ; background-color: #fff; border-color: #428bca;}
-.navbar-nav>li>a {z-index: 9999 ; padding-top: 6px;padding-bottom: 8px;color: #858585;}
-.navbar-nav>li.active>a, .navbar-nav>li>a:hover {color: #428BCA}
+.nav>li>a:hover, .nav>li>a:focus {z-index: 9999 ; text-decoration: none;background-color: #428BCA;}
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {z-index: 9999 ; background-color: #428bca; border-color: #428bca;}
+.navbar-nav>li>a {z-index: 9999 ; padding-top: 6px;padding-bottom: 8px;color: #fff;}
+.navbar-nav>li.active>a, .navbar-nav>li>a:hover {color: #fff}
 
 .navbar-nav.navbar-right:last-child {margin-right: -15px;margin-top: 34px; margin-bottom: -18px;}
 .btn-brand{background-color: #428BCA; border-color: #428BCA;color:#fff}
