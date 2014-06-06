@@ -252,7 +252,7 @@ body {
 
 	#home-row-1,
 	#home-row-2 {
-		padding-top: 25px;
+		padding-top: 15px;
 	}
 	
 	#home-row-1 h1 {
@@ -268,19 +268,19 @@ body {
 	}
 	
 	#home-row-2 .col-12 {
-		height: 232px;
-		padding-top: 30px;
+		height: 20;
+		padding-top: 15px;
 	}
 	
 	#home-row-2 .col-12 .home-hover {
-		height: 166px;
+		height: 20;
 		overflow: hidden;
-		padding-top: 26px;
-		transition: all ease-in .5s;
+		padding-top: 10px;
+		transition: all ease-in .2s;
 	}
 	
 	#home-row-2 .col-12 .home-hover:hover {
-		height: 166px;
+		height: 20;
 		padding-top: 0;
 	}
 
