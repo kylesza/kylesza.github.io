@@ -442,7 +442,7 @@ body {
 	}
 }
 	
-@media (max-width: 767px) {
+@media (max-width: 720px) {
 	#slide-3 .col-12 {
 		width: 100%;
 	}
@@ -473,7 +473,7 @@ body {
 	padding-top: 90px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 720px) {
 	#slide-6 {
 		background-image: none;
 	}
@@ -490,7 +490,7 @@ body {
 		text-decoration: none;
 	}
 
-@media (max-width: 767px) {
+@media (max-width: 720px) {
 	.with-hover-text{
 		margin-bottom: 2em;
 		margin-top: 1em;
