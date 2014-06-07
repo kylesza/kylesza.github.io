@@ -217,7 +217,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/bg1.jpg');
+	background-image: url('../images/background.jpg');
 	background-size:cover;
 	color: #ffffff;
     -webkit-background-size: 100%;
@@ -246,7 +246,7 @@ body {
 
 @media (max-width: 767px) {
 	#slide-1 {
-		background-image: url('../images/bg1.jpg')
+		background-image: url('../images/background.jpg')
 	}
 }
 
@@ -545,17 +545,7 @@ body {
 	display: none;
 }
 
-.zoom {
-	background-image: url('../images/zoom.png');
-	background-position: center center;
-	background-repeat: no-repeat;
-	height: 100%;
-	left: 0;
-	position: absolute;
-	top: 0;
-	width: 100%;
-	z-index: 999;
-}
+
 
 #arrows {
 	bottom: 10%;
