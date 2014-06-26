@@ -18,7 +18,7 @@ $(document).ready(function(e) {
 				.animate(
 					{
 						paddingTop: '25px',
-						opacity: 1
+						opacity: 0
 					},
 					'fast',
 					'linear'
