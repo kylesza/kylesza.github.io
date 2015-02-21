@@ -317,12 +317,13 @@ body {
 #slide-2 {
 	background-color: rgb(255,211,77);
 	color: #e4e6e5;
-	padding-top: 90px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 	.title-row {
 		font-size: 45px;
-		padding-bottom: 20px;
+		padding-bottom: 0px;
 	}
 	
 	.line-row .hr {
@@ -341,7 +342,7 @@ body {
 	
 	.subtitle-row {
 		font-size: 35px;
-		padding-bottom: 40px;
+		padding-bottom: 10px;
 		padding-top: 40px;
 	}
 	
@@ -359,7 +360,7 @@ body {
 	
 	.content-row h2 {
 		font-size: 28px;
-		padding-bottom: 40px;
+		padding-bottom: 10px;
 	}
 	
 	.content-row h4 {
@@ -377,12 +378,12 @@ body {
 @media (max-width: 767px) {
 	.title-row {
 		font-size: 34px;
-		padding-bottom: 33px;
+		padding-bottom: 0px;
 	}
 	
 	.subtitle-row {
 		font-size: 26px;
-		padding-bottom: 26px;
+		padding-bottom: 0px;
 		padding-top: 26px;
 	}
 	
@@ -392,7 +393,7 @@ body {
 	
 	.content-row h2 {
 		font-size: 24px;
-		padding-bottom: 26px;
+		padding-bottom: 0px;
 	}
 	
 	.content-row h4 {
