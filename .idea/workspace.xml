@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cf754dd-0fbf-40ca-8c40-74b80ce71691" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/balanced-match/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/balanced-match/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -61,18 +60,14 @@
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="284">
-              <caret line="2940" column="61" lean-forward="true" selection-start-line="2940" selection-start-column="61" selection-end-line="2940" selection-end-column="61" />
+              <caret line="2940" column="61" selection-start-line="2940" selection-start-column="61" selection-end-line="2940" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
@@ -208,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525465263809</updated>
-      <workItem from="1525465266419" duration="3586000" />
+      <workItem from="1525465266419" duration="3898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3586000" />
+    <option name="totallyTimeSpent" value="3898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="482" y="121" width="1400" height="911" extended-state="0" />
@@ -325,16 +320,12 @@
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
-          <caret line="2940" column="61" lean-forward="true" selection-start-line="2940" selection-start-column="61" selection-end-line="2940" selection-end-column="61" />
+          <caret line="2940" column="61" selection-start-line="2940" selection-start-column="61" selection-end-line="2940" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/balanced-match/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
